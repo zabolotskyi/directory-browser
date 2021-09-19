@@ -2,6 +2,8 @@
 
 Directory browser is an interactive navigation through tree nodes like file system.
 
+# [Live demo](https://zabolotskyi.github.io/directory-browser/)
+
 ## Features
 
 - Fetch tree folder from external api or use built-in default data.
